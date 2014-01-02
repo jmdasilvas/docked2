@@ -1,0 +1,9 @@
+Package: com.jmdasilvas.docked2
+Name: docked2
+Depends: mobilesubstrate, jp.ashikase.mousesupport
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: cariphone tweak serial port
+Maintainer: jmdasilvas
+Author: jmdasilvas
+Section: Tweaks

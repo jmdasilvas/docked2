@@ -1,0 +1,5 @@
+{
+	title = "docked2";
+	description = "Run calibrate";
+	"compatible-modes" = ("springboard", "application");
+}
