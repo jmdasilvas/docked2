@@ -1,12 +1,17 @@
+/*
+ * Copyright (c) 2014 jmdasilvas
+ * docked2
+ *
+ * for project cariphone 4S
+ * http://www.dasilvas.info
+ * 
+*/
+#include <substrate.h>
 
 #import "Celestial/AVSystemController.h"
 #import <SpringBoard/SpringBoard.h>
 #import <SpringBoard/SBStatusBarController.h>
 #import <SpringBoard/SBIconController.h>
-
-
-//#include <CydiaSubstrate.h>
-#include <substrate.h>
 
 #include "mouse_msgs.h"
 #import "../libactivator/libactivator.h"

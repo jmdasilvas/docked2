@@ -1,3 +1,15 @@
+/* code swiped from
+ * MMSE-Based Multipoint Calibration Algorithm 
+ * for Touch Screen Applications 
+ * by Ning Jia
+ *
+ * AN-1021 APPLICATION NOTE
+ * ADVANCE DEVICES
+ *
+ * http://www.analog.com/static/imported-files/application_notes/AN-1021.pdf
+ *
+*/
+ 
 //-----------------------------------------------------------------------------------------
 //------------------------------CALIBRACION------------------------------------------------
 //-----------------------------------------------------------------------------------------
